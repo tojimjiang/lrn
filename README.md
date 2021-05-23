@@ -1,4 +1,5 @@
 # lrn
+Currently based on a vue boilerplate.
 
 ## Project setup
 ```
@@ -20,5 +21,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[](### Customize configuration)
+[](See [Configuration Reference](https://cli.vuejs.org/config/).)
